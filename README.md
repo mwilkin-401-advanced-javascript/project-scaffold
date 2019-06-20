@@ -30,11 +30,12 @@ Exported Values and Methods
 
 Running the app
 
-npm start
+`npm start`
 
 ### Tests
 How do you run tests?
-npm test
+
+`npm test`
 
 What assertions were made?
 What assertions need to be / should be made?
